@@ -1,3 +1,4 @@
+#Made by @Leozlk - 2023
 import yt_dlp
 
 #get the list in the main folder
